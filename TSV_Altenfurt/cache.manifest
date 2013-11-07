@@ -1,0 +1,13 @@
+CACHE MANIFEST
+# 1
+
+index.html
+css/reset.css
+css/app.css
+css/skin.css
+
+bilder/erledigt.png
+bilder/holz.jpg
+
+NETWORK:
+*

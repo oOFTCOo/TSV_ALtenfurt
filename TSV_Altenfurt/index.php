@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html manifest="cache.manifest">-->
+<html>
 <head>
 <script type="text/javascript">
 
